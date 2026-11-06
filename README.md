@@ -21,3 +21,4 @@ research (position stands, meta-analyses), not anecdotes.
 - `physio/current.md` — paste your latest physio advice here; it goes into every week
 - `logs/` — session log and weekly check-in templates
 - `plans/` — your programs (created after intake)
+- `logs/watch/` + `scripts/watch_summary.py` — automatic daily Apple Watch data (setup: `docs/apple-watch-sync.md`)
