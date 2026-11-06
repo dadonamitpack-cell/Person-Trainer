@@ -12,7 +12,7 @@ work, fix pull-ups, recover better, and arrive fresh on match day.
 | **One heavy lower-body day, every week** | Strength training improves sprint and jump in footballers (Silva 2015 meta-analysis). In-season, 1 session/week maintains strength (Rønnestad 2011). |
 | **Added 1 structured HIIT session** | 4×4 min at 90–95% HRmax raised VO₂max ~11% and match running distance ~20% in footballers (Helgerud 2001). |
 | **Hard days hard, easy days easy** | Stack heavy lifting + HIIT on the same day, away from the match, so the other days can recover. |
-| **Pull-up progression twice a week** | Strength comes from frequency and progressive overload on the exact skill. |
+| **Physio drills twice a week** (towel chin-ups = pull-up work for now) | Physio sheet 2026-11-06. Twice a week gives more practice on the skill while the shoulder heals. |
 | **Upper body cut back** to fit everything in | Your goal is performance on the pitch; upper body stays at maintenance-plus. |
 | Cut "drains metabolites", "max explosive hip thrust" etc. claims | Not supported; the drills themselves are fine. |
 
@@ -45,20 +45,19 @@ of kickoff. If the gap is too short, skip the HIIT. Team training already covers
 
 ## Gym 1: Sunday (MD+1). Recovery + upper body + physio · ~60 min
 1. **Flush:** 15–20 min easy bike (you can talk in full sentences) → Cat-Cow 1 min, 90/90 hip switches 8/side
-2. **Physio block (shoulder):** current physio drills; default TRX Crucifix 3×8 + Push-up Rotate 3×8 (light, slow)
-3. **Pull-up progression A** (*physio OK required*), choose by level:
-   - < 3 strict reps: eccentric chin-ups 4×3, 4–5 s lowering + scap pull-ups 2×8
-   - 3–6 reps: 4 sets of (max − 1) reps
-4. Lat pulldown, neutral grip: 3×8–12
-5. Dumbbell bench press (stop just short of a deep stretch at the bottom; protects the shoulder): 3×8–12
-6. One-arm DB row: 3×10/side
-7. Superset: DB curls 2×10–12 + cable pushdown 2×10–12
+2. **Physio block (shoulder)**, from `physio/current.md`:
+   - 1-arm TRX row 3×4/side (→ 8/side)
+   - 1-arm DB bench press 3×5/side (→ 8/side)
+   - Towel chin-up 3×3/side, 3-s lowering. **This is your pull-up work for now**: regular chin-up
+     progressions wait until the physio clears them.
+3. Lat pulldown, neutral grip: 3×8–12 (moderate, controlled, no stretch-and-bounce at the top)
+4. Superset: DB curls 2×10–12 + cable pushdown 2×10–12
 8. **Ankle:** single-leg balance 3×30 s/leg (progress: eyes closed → soft pad → catching a ball)
 9. Core: Dead bug 2×10/side, Side plank 2×30 s/side
 
 ## Gym 2: Tuesday (MD-4). The hard day · ~75 min + HIIT
 1. **Warm-up:** 5 min bike, World's Greatest Stretch 5/side, leg swings 10+10, side lunge 6/side, 2× (A-skips, 10 m build-up)
-2. **Physio block** (ankle/lower-body physio drills if any)
+2. **Physio block:** single-leg cable deadlift 3×8/leg, level pelvis, build toward 40 kg (`physio/current.md`)
 3. **Power:** countermovement box jump 3×4 (step down) · lateral bound with a 2-s stuck landing 3×4/side (ankle control)
 4. **Strength:**
    - A. Trap-bar deadlift (or back squat) **4×4–6**, RIR 2
@@ -75,8 +74,9 @@ of kickoff. If the gap is too short, skip the HIIT. Team training already covers
 
 ## Gym 3: Thursday (MD-2). Short, crisp, no fatigue · ~45 min
 1. Warm-up: Cat-Cow, 90/90, Squat-to-press 2×8
-2. **Physio block (shoulder)**
-3. **Pull-up progression B:** band-assisted chin-ups 3×5–8, controlled
+2. **Physio block (shoulder):** 1-arm TRX row 3×4/side · 1-arm DB bench 3×5/side · Towel chin-up 3×3/side
+   (same progression as Sunday; this is the second weekly exposure)
+3. *(Pull-up progression B paused until physio clears regular chin-ups)*
 4. Landmine press 3×8/side (more shoulder-friendly than strict overhead press after a dislocation)
 5. Inverted row (TRX/barbell) 3×8–12. Builds pulling strength for pull-ups.
 6. **Ankle:** step-downs 2×8/leg + balance 2×30 s/leg
