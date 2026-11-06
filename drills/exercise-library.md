@@ -15,7 +15,8 @@ Source: your program sheet (`profile/source/original-program-sheet-he.md`) + coa
 | Vertical / angled push | ➕ landmine press |
 | Horizontal pull | ➕ one-arm DB row, ➕ inverted row |
 | Vertical pull | Lat pulldown, ➕ eccentric / band-assisted chin-ups, ➕ scap pull-ups |
-| Shoulder stability | TRX Crucifix, push-up rotate (+ physio drills) |
+| Shoulder stability | TRX Crucifix, push-up rotate, ➕ band pull-apart, ➕ band external rotation (elbow at side) (+ physio drills) |
+| Band activation (warm-up) | ➕ mini-band lateral walk, monster walk, banded glute bridge, ➕ ankle band 4-way |
 | Arms | DB curls, cable pushdown |
 | Core | Plank, side plank, dead bug, Pallof press |
 | Conditioning | ➕ Norwegian 4×4 HIIT, team training, match |
