@@ -88,3 +88,22 @@ IOC consensus statement on supplements (Maughan et al., *BJSM* 2018).* Most othe
 - Spot reduction ("burn belly fat with crunches"): does not work (Ramírez-Campillo et al., 2013).
 - Detox, fat burners, "metabolic damage" claims, anabolic-window panic, or extreme diets.
 - Diagnose injuries or medical conditions: that goes to a doctor or physiotherapist.
+
+## 9. Football-specific
+- **Nordic hamstring curls** roughly halve hamstring injuries (van der Horst et al., *AJSM* 2015; van Dyk et al.,
+  *BJSM* 2019 meta-analysis). Low weekly volume is enough (Presland et al. 2018).
+- **Copenhagen adductor programme** reduced groin problems ~41% (Harøy et al., *BJSM* 2019).
+- **FIFA 11+** warm-up reduces injuries ~30% in amateur footballers (Sadigursky et al., *BMC Sports Sci Med Rehabil* 2017).
+- **Balance/proprioceptive training** after an ankle sprain reduced recurrence ~35% (Hupperets et al., *BMJ* 2009).
+- **Strength training** improves sprint and jump in footballers (Silva et al., *IJSPP* 2015); once a week
+  maintains in-season gains (Rønnestad et al., *JSCR* 2011).
+- **4×4 min HIIT at 90–95% HRmax** improved VO₂max, match distance and sprints (Helgerud et al., *MSSE* 2001).
+- **Session-RPE** (Foster et al. 2001) and short wellness questionnaires (McLean et al. 2010) are validated, cheap
+  ways to monitor load. The "acute:chronic ratio" as an injury predictor is disputed (Impellizzeri et al. 2020);
+  we just avoid big week-to-week spikes.
+- **Match nutrition:** periodized carbs (6–8 g/kg MD-1 and MD), 30–60 g/h during play, protein after
+  (UEFA expert group statement, Collins et al., *BJSM* 2021).
+- **Sleep extension** improved sprint times and shooting accuracy in athletes (Mah et al., *Sleep* 2011).
+- **Cold-water immersion** after strength training blunts gains (Roberts et al., *J Physiol* 2015).
+- **Alcohol** after exercise reduces muscle protein synthesis (Parr et al., *PLoS One* 2014).
+- **Pre-sleep casein** (~40 g) increases overnight muscle protein synthesis (Snijders et al., *J Nutr* 2015; Res et al. 2012).

@@ -1,15 +1,26 @@
 # Weekly check-in, week of YYYY-MM-DD
 
-*Copy this file to `logs/checkin-YYYY-MM-DD.md` each week.*
+*Copy to `logs/checkin-YYYY-MM-DD.md` (or paste in chat).*
 
-- Daily morning weights (kg): Mon __ Tue __ Wed __ Thu __ Fri __ Sat __ Sun __ → **average:**
-- Waist (cm):
-- Average steps/day:
-- Average calories / protein (if tracking):
-- Sessions planned vs done:
-- Performance: what went up / stalled / went down:
-- Sleep (avg h, quality 1–10):
-- Energy, hunger, stress (1–10 each):
-- Soreness / pain / niggles:
-- Adherence to diet (%) and what got in the way:
-- Questions / what you want changed:
+## Body
+- Morning weights (kg): Mon __ Tue __ Wed __ Thu __ Fri __ Sat __ Sun __ → **average:**
+- Waist (cm, every 2 weeks):
+
+## Load: session RPE (0–10 how hard × minutes)
+| Day | Session | Minutes | RPE | Load (min×RPE) |
+|---|---|---|---|---|
+| | | | | |
+**Weekly total:** ___ (we keep week-to-week jumps moderate; big spikes = more injury risk)
+
+## Daily wellness (1 = bad, 5 = great): sleep quality, fatigue, soreness, stress, mood
+| Day | Sleep h | Sleep | Fatigue | Soreness | Stress | Mood | Total /25 |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+
+## Performance
+- Key lifts / pull-up reps / HIIT:
+- Match: minutes played, how you felt (legs, lungs, sharpness 1–10):
+- Pain or niggles (where, 0–10):
+- Diet adherence (%), protein hit most days? (y/n):
+- Physio updates:
+- Questions / changes wanted:

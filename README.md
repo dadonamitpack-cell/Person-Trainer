@@ -18,5 +18,6 @@ research (position stands, meta-analyses), not anecdotes.
 - `docs/evidence-base.md` — the research the coaching is based on, with references
 - `profile/intake.md` — **start here**: the questionnaire
 - `drills/exercise-library.md` — your exercises
+- `physio/current.md` — paste your latest physio advice here; it goes into every week
 - `logs/` — session log and weekly check-in templates
 - `plans/` — your programs (created after intake)
