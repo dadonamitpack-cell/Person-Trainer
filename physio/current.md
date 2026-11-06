@@ -5,10 +5,10 @@
 
 | # | Drill | Sets × reps | Progression on sheet | Where in plan |
 |---|---|---|---|---|
-| 1 | **1-arm TRX row** | 3 × 4 each side | → 8 each side | Gym 1 (Sun) + Gym 3 (Thu) |
-| 2 | **1-arm DB bench press** | 3 × 5 each side | build to 8 each side | Gym 1 (Sun) + Gym 3 (Thu) |
+| 1 | **1-arm TRX row** | 3 × 4 each side | → 8 each side | Gym 1 + Gym 2 (Tue) |
+| 2 | **1-arm DB bench press** | 3 × 5 each side | build to 8 each side | Gym 1 + Gym 2 (Tue) |
 | 3 | **Single-leg deadlift, cable** | 3 × 8 each leg | target ~40 kg ("40 kg?") | Gym 2 (Tue) |
-| 4 | **Towel chin-up** | 3 × 3 each side | — | Gym 1 (Sun) + Gym 3 (Thu) |
+| 4 | **Towel chin-up** | 3 × 3 each side | — | Gym 1 + Gym 2 (Tue) |
 
 ## How we progress it (coach rules, within the physio's targets)
 - Add **1 rep per side** when every set felt RIR ≥ 2 and pain ≤ 2/10 during and the next day.

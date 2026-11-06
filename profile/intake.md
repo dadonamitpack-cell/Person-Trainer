@@ -6,10 +6,10 @@
 - Age: 31 · Sex: male · Height: 182 cm · Weight: 85 kg (BMI ~25.7)
 - Waist: _TBD_ · Body-fat %: _TBD_
 - Sport: amateur football. **2 team trainings + 1 match per week**
-- Daily steps: _TBD_
+- Daily steps: **10–15k**
 
 ## 2. Health and safety
-- PAR-Q+ answers: **pending** (7 yes/no questions, see section 2 of the template in git history / chat)
+- PAR-Q+ (2026-11-06): **all 7 answers "no"**: cleared to train
 - **Ankle sprain** about 1 year ago. Previous sprain is the strongest risk factor for another one.
 - **Minor shoulder dislocation (subluxation)** a few months ago. Under physiotherapy. Physio has the final say
   on loaded overhead work, pull-ups, and end-range positions (arm out to the side and rotated back).
@@ -24,12 +24,12 @@
 ## 4. Training background
 - Currently: 3 gym sessions/week, mostly upper body, plus ankle strength/stability drills; explosive lower-body
   work added "when I feel like it".
-- Team training 2×/week (described as lower intensity in the sheet), 1 match/week (usually Saturday, sometimes Friday).
+- Team training 2×/week (described as lower intensity in the sheet), 1 match/week (Friday or Sunday).
 - Recovery: "could be better".
 
 ## 5. Logistics
-- Match: usually **Saturday**, some weeks **Friday**
-- Team trainings: assumed **Mon + Wed evening** (from the sheet). _Confirm._
+- Match: **Friday or Sunday**
+- Team trainings: **Mon + Wed** (confirmed)
 - Gym: full commercial gym (barbell, dumbbells, cables, TRX, machines).
 
 ## 6. Nutrition
@@ -37,13 +37,15 @@
 - Daily shake: 1 scoop whey + 200 ml protein milk → ~260 kcal, ~42 g protein
 - Lunch: meat / chicken / lean pork + a carb side
 - Dinner: varies with the day
-- Tracking food / daily weigh-ins: _TBD_ · Supplements: _TBD_ · Sleep and stress: _TBD_
+- Tracking: **light-touch**. Wants guidance and understanding, not strict logging. Occasional weigh-ins are fine.
+- Supplements: **creatine 5 g/day**
+- Sleep: 7–8 h/night · Stress: _TBD_
 
 ## 7. Baseline tests
 | Test | Result |
 |---|---|
 | 5 km run | **< 20:00** (fresh) |
 | Push-ups max | ~60 (estimated) |
-| Pull-ups / chin-ups max | Low (_test: strict reps, or dead-hang seconds_) |
+| Pull-ups / chin-ups max | Not tested, treated as average/beginner level; physio towel chin-ups for now |
 | Main lifts | _TBD_ |
-| Resting HR / max HR | _TBD_ (needed for interval zones) |
+| Resting HR / max HR | **40–45 / ~190** (self-reported) |
